@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tebakan</string>
+        <string name="correct_guess">Anda Menang tebakan anda benar</string>
+    <string name="wrong_guess">Game Over tebakan anda salah</string>
+    <string name="number_to_guess">%d</string>
+    <string name="attempts_remaining">Number of Guesses : %d</string>
+    <string name="score">You scored : %d</string>
+    <string name="game_over">GAME OVER</string>
+</resources>

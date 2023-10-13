@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="number_to_guess">%d</string>
+    <string name="attempts_remaining">Number of Guesses : %d</string>
+    <string name="score">You scored : %d</string>
+    <string name="game_over">GAME OVER</string>
+</resources>
